@@ -42,7 +42,6 @@ FluxWP is built the other way round. Every package is a **Flux** module that sna
 | 🧭 **Team & admin** | Flux Admin · Flux Roles · Flux Tasks · Flux App |
 | 📈 **Growth** | Flux Site Analytics · Flux Language |
 | 🛠️ **Operations** | Flux Updater · Flux Backup · Flux Performance |
-| 📺 **Screens** | Flux TV Board · Flux TV Remote |
 | 🎨 **Themes** | FluxWP (WooCommerce block theme) · Flux Menu Theme |
 
 ## Repositories
@@ -50,7 +49,6 @@ FluxWP is built the other way round. Every package is a **Flux** module that sna
 | Repository | What it is |
 |---|---|
 | [**FluxWP**](https://github.com/FluxWP/FluxWP) | The FluxWP Suite: the theme and all core Flux plugins in one monorepo, released package by package. |
-| [**wp-extras**](https://github.com/FluxWP/wp-extras) | FluxWP Extras: presets that turn the theme into a ready site in one click, plus add-ons such as TV Board, TV Remote, Staff and Qurban. |
 | [**updater**](https://github.com/FluxWP/updater) | FluxWP Updater server: delivers private themes and plugins to the normal WordPress updates screen. |
 | [**whatsapp-api**](https://github.com/FluxWP/whatsapp-api) | A WhatsApp API gateway that connects your site's inbox and notifications to WhatsApp. |
 | [**mobile**](https://github.com/FluxWP/mobile) | FluxWP App for iOS and Android: manage one or many WordPress sites from your phone. |
@@ -75,7 +73,7 @@ flowchart LR
 
 1. Install **Flux Updater** from the latest release and point it at your update server.
 2. Pick the packages you need under **Dashboard › Updates** and click **Install**.
-3. Apply a preset from **FluxWP Extras** to get a complete site in one click, or start from the plain FluxWP theme.
+3. Apply a preset with **Flux Setup** to get a complete site in one click, or start from the plain FluxWP theme.
 
 <div align="center">
 <br>
